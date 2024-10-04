@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       border-radius: 8px; ">
         <h1 style=" color: #fff;
       margin-bottom: 30px;">Login</h1>
-        <form action="login.php" method="post">
+        <form action="index.php" method="post">
             <div class="form-group" style="margin-bottom: 20px;
       text-align: left">
                 <label for="username" style="display: block;
