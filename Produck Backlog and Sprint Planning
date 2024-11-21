@@ -1,0 +1,76 @@
+Product Backlog
+
+1.	User Story: Add Employee
+o	Who: As an admin
+o	What: I want to add a new employee.
+o	Why: So that I can keep track of all employees.
+
+2.	User Story: Display Employees
+o	Who: As an admin
+o	What: I want to see a list of all employees.
+o	Why: So that I can easily review them in a table.
+
+3.	User Story: Search Employee
+o	Who: As an admin
+o	What: I want to search for an employee by name or ID.
+o	Why: So that I can quickly find specific employees.
+
+4.	User Story: Edit Employee
+o	Who: As an admin
+o	What: I want to edit an employee's details.
+o	Why: So that I can update their information if needed.
+
+5.	User Story: Delete Employee
+o	Who: As an admin
+o	What: I want to delete an employee from the list.
+o	Why: So that I can remove those who are no longer part of the organization.
+
+6.	User Story: User Authentication
+o	Who: As an admin
+o	What: I want to log in securely.
+o	Why: So that unauthorized users cannot access the system.
+
+7.	User Story: Responsive Design
+o	Who: As a user
+o	What: I want the application to work on different devices.
+o	Why: So that I can use it on my phone or tablet easily.
+
+
+
+Sprint Planning
+
+Sprint 1: Setup & Add Employee
+•	Goal: Establish the foundational structure of the application and implement the feature to add an employee.
+•	Tasks:
+o	Set up the project environment.
+o	Design the database schema for employees.
+o	Implement the "Add Employee" functionality.
+o	Create a simple UI for adding employees.
+
+Sprint 2: Display Employees & Search Functionality
+•	Goal: Implement displaying employees in a tabular format and add search capabilities.
+•	Tasks:
+o	Implement the feature to display employees in a tabular format.
+o	Add sorting functionality for the table (by name, ID).
+o	Implement the "Search Employee" feature.
+o	Test the display and search functionalities.
+
+Sprint 3: Edit Employee & Delete Employee
+•	Goal: Enable editing and deleting employee records.
+•	Tasks:
+o	Implement the "Edit Employee" feature.
+o	Implement the "Delete Employee" feature.
+o	Ensure proper confirmation dialogs for deletion.
+o	Test editing and deleting functionalities.
+
+Sprint 4: User Authentication & Responsive Design
+•	Goal: Secure the application and ensure it is responsive across devices.
+•	Tasks:
+o	Implement user authentication (login/logout).
+o	Design a responsive layout for the employee list.
+o	Perform usability testing and bug fixes.
+o	Prepare for deployment.
+
+Additional Considerations
+•	Testing: Include unit and integration testing throughout the sprints.
+•	Documentation: Maintain documentation for each feature and the overall system.
